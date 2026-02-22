@@ -2,10 +2,6 @@
 
 Sistema web de **Ponto Eletrônico Online**, simples, rápido e objetivo, desenvolvido para controle completo da jornada de trabalho de colaboradores.
 
-🚀 **Sistema em produção disponível em:**
-https://dotsimple.com.br/
-
-
 ## 🚀 Sobre o Sistema
 
 O **DotSimple** é uma plataforma web criada para facilitar o registro e gerenciamento de ponto eletrônico dentro de empresas, permitindo o acompanhamento da jornada de trabalho de forma prática e segura.
